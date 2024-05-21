@@ -1,6 +1,0 @@
-{
-    "liskAPIURL": "https://rpc.sepolia-api.lisk.com",
-    "claimAPIURL": "https://sepolia-token-claim-api.lisk.com/rpc",
-    "network": "liskSepolia",
-    "contractAddress": "0x3D4190b08E3E30183f5AdE3A116f2534Ee3a4f94"
-}
