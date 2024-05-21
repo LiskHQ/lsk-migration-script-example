@@ -1,14 +1,17 @@
 {
-  "name": "lsk-migration",
+  "name": "lsk-migration-script-example",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "private": true,
+  "description": "example script how to claim the token without using the Lisk Portal",
+  "author": "Lisk Foundation <admin@lisk.com>, lightcurve GmbH <admin@lightcurve.io>",
+  "license": "Apache-2.0",
+	"keywords": [
+		"lisk",
+		"blockchain"
+	],
+  "main": "index.mjs",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "@liskhq/lisk-cryptography": "^4.1.0",
     "viem": "^2.11.0"
