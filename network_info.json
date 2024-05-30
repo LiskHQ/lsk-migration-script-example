@@ -9,6 +9,6 @@
         "liskAPIURL": "https://rpc.api.lisk.com",
         "claimAPIURL": "https://token-claim-api.lisk.com/rpc",
         "network": "lisk",
-        "contractAddress": "0x"
+        "contractAddress": "0xD7BE2Fd98BfD64c1dfCf6c013fC593eF09219994"
     }
 }
